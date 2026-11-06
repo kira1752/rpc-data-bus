@@ -1,0 +1,24 @@
+{
+ "worker": "rpc-cloudflare-worker",
+ "version": 1,
+ "cadence_min": 10,
+ "last_run_at": null,
+ "status": "ok",
+ "watermark": 107867484,
+ "from_block": 107857485,
+ "to_block": 107867484,
+ "blocks_scanned": 0,
+ "events_per_venue": {
+  "pons-v2": 9,
+  "uniswap-v2": 9,
+  "uniswap-v3": 5,
+  "uniswap-v4": 45
+ },
+ "pools_new": 68,
+ "pools_total_seen": 68,
+ "seen_pruned": 0,
+ "duration_ms": 0,
+ "last_error": null,
+ "rpc": null,
+ "http": null
+}
