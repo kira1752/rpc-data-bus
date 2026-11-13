@@ -4,9 +4,9 @@
  "cadence_min": 10,
  "last_run_at": null,
  "status": "ok",
- "watermark": 113211023,
- "from_block": 113205338,
- "to_block": 113211023,
+ "watermark": 113216848,
+ "from_block": 113211024,
+ "to_block": 113216848,
  "blocks_scanned": 0,
  "events_per_venue": {
   "pons-v2": 2,
@@ -15,8 +15,8 @@
   "uniswap-v4": 4
  },
  "pools_new": 14,
- "pools_total_seen": 428,
- "seen_pruned": 15,
+ "pools_total_seen": 415,
+ "seen_pruned": 27,
  "duration_ms": 0,
  "last_error": null,
  "rpc": null,
